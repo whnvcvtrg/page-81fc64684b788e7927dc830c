@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "56db63a01f9015bbe50be421",
+  "owner": "whnvcvtrg",
+  "repo": "page-81fc64684b788e7927dc830c",
+  "title": "蜂鸟",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "81fc64684b788e7927dc830c",
+      "a": "蜂鸟",
+      "b": "2027最新官网",
+      "entity": "蜂鸟",
+      "brand": "蜂鸟",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "acdfdbb048e32559cc7a01603a17b5c2e32464204b470c5daaf6d1ba3b9680d6",
+      "content": {
+        "primary_entity": "蜂鸟",
+        "keyword1": "蜂鸟",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows、macOS、Android、iOS 分别适配。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "蜂鸟订阅按设备与流量灵活匹�，先明确需求再对比套餐，选好周期即可开始配置。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_DESCRIPTION": "，蜂鸟提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 与 ¥85，按年付对应 ¥150、¥350 与 ¥850。流量从每月 100GB 到 1000GB，设备支持 3 台到 20 台，旗舰版额外提供 IPLC 专线游戏加速与 7x24 优先工单，团队版可定制企业路由。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度了解蜂鸟的套餐设计。",
+          "AI_FEATURES_TITLE": "蜂鸟使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻量使用，旗舰版 300GB 覆盖多设备流媒体与游戏，团队版 1000GB 面向高并发场景。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；按家庭或团队人数选择对应档位更合适。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可锁定年付方案。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TITLE_2": "设备数对应人数",
+          "AI_FEATURE_TITLE_3": "订阅周期与价格",
+          "AI_GUIDE_INTRO": "从选择服务到配置订阅，三步完成蜂鸟的上手流程。",
+          "AI_GUIDE_TITLE": "蜂鸟订阅三步",
+          "AI_HERO_INTRO": "蜂鸟面向海外访问场景提供多档订阅，覆盖 100GB 到 1000GB 月流量、3 到 20 台设备在线，并区分普通节点与 IPLC 专线，适合个人、家庭与团队按需选择。",
+          "AI_HERO_SUBTITLE": "蜂鸟订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐 100GB 起",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150 起",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。流量与设备数逐档提升，按实际用量和在线设备数选择即可。",
+          "AI_PLANS_TITLE": "蜂鸟套餐对比",
+          "AI_STEP_TEXT_1": "结合月流量、同时在线设备数和是否需要游戏加速，在基础版、旗舰版、团队版中初步选定档位。",
+          "AI_STEP_TEXT_2": "确认自己的操作系统与设备数量，核对所选套餐的设备上限和客户端适配要求。",
+          "AI_STEP_TEXT_3": "拿到订阅后参照对应客户端的使用说明导入配置，遇到问题可通过对应套餐的工单渠道反馈。",
+          "AI_STEP_TITLE_1": "选定服务档位",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "蜂鸟三档订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并带 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按月或按年付费可选。",
+          "AI_FAQ_ANSWER_2": "蜂鸟支持 Windows、macOS、Android、iOS 及部分路由器，具体客户端名称与导入方式可查看对应文档，按步骤配置订阅即可。",
+          "AI_FAQ_ANSWER_3": "按年付通常比按月付更划算，例如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版提供更多同时在线设备数，最高支持 20 台设备同时在线，适合多人或多终端场景使用。",
+          "AI_FAQ_ANSWER_5": "可以先从基础版开始体验，如果流量或设备数不够再升级到旗舰版，团队版适合流量需求大、设备多的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "蜂鸟不同套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "蜂鸟支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量怎么算？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowrocketis.com",
+    "host": "shadowrocketis.com"
+  },
+  "file_hashes": {
+    "index.html": "c2493e46fe9fc19f005ee2dd9c6646819fffbbde98efdefc7549f70c29542003",
+    "sitemap.xml": "e655fa6e568ff0d9701b7d68b3aa89ef5d72d3e7efba0494dbd4baf6ae5fefa9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4e40ca088bab4481943958d0a0281df003bea712f0faa5050c8bce4889324c70",
+    "robots.txt": "f8812bd1e7ee8ebe6f27bb90671f90d1226710d72f28838a659d2e706a811151",
+    "ecb8f8a2618f019d85c9a675f06cda5f.txt": "31733d179a29f7c22b127fa1b53e2cbb71847bad1e11c4848c2dd9cde0cf2953"
+  },
+  "revision": "ff5c732b06c4e4914c8f9ed2656f1031b1728a7378a31f15b875da28cb1726f3"
+}
